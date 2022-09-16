@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/projFiles/FoxWheel/obj
+*.layout
+/bin
